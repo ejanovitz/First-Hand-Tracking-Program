@@ -1,3 +1,7 @@
+# Ethan Janovitz
+# April 26th
+# First Hand Tracking Program
+
 import cv2 as cv
 import mediapipe as mp
 import numpy
