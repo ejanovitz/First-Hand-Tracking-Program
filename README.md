@@ -1,6 +1,6 @@
 # First-Hand-Tracking-Program
 
-Hello!, welcome
+Hello!
 
 This is my first Hand Tracking program using the Open CV, Media Pipe, and pyautogui libraries.
 
